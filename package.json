@@ -1,0 +1,19 @@
+{
+  "name": "clase_19072022",
+  "version": "1.0.0",
+  "description": "Test de NPM",
+  "main": "script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjerezTdf/clase_19072022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danjerezTdf/clase_19072022/issues"
+  },
+  "homepage": "https://github.com/danjerezTdf/clase_19072022#readme"
+}
